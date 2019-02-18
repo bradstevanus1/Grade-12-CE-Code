@@ -1,2 +1,3 @@
 # Grade-12-CE-Code
-This repository contains all grade 12 code I wrote for the 2018 class of computer engineering at my highschool, GRCI.
+C++ code written for the RXCD bot, a project assigned by Mr. Contonis for the grade 12 CE class.
+Also contains code for a hardware Simon game implementation.
